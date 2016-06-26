@@ -1,0 +1,53 @@
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\cvextern.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\msvcp120.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\msvcr120.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\user_interface.exe.config
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\user_interface.exe
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\user_interface.pdb
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\yo-NG\user_interface.resources.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\ZedGraph.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\Emgu.CV.World.pdb
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\ZedGraph.xml
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\user_interface.Form.resources
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\user_interface.Properties.Resources.resources
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\user_interface.Form.yo-NG.resources
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\user_interface.csproj.GenerateResource.Cache
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\yo-NG\user_interface.resources.dll
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\user_interface.exe
+C:\Users\Arnold Yeung\Documents\UBC\Winter 2015-2016\MECH 423\Final Project\Visual C#\user_interface v0.6 - various bugfixes\user_interface\obj\x64\Debug\user_interface.pdb
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\user_interface.exe.config
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.exe
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.pdb
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\cvextern.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\msvcp120.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\msvcr120.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\user_interface.exe
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\user_interface.pdb
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\yo-NG\user_interface.resources.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\ZedGraph.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.World.pdb
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\ZedGraph.xml
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.csprojResolveAssemblyReference.cache
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.Form.resources
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.Properties.Resources.resources
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.Form.yo-NG.resources
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\user_interface.csproj.GenerateResource.Cache
+C:\Users\albert\Documents\UBC\MECH423\Final Project\user_interface\obj\x64\Debug\yo-NG\user_interface.resources.dll
